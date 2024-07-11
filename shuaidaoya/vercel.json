@@ -1,1 +1,8 @@
-1
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://music.ssdxz.site/:match*"
+    }
+  ]
+}
